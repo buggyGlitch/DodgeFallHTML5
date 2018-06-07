@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "dodgefallhtml5.data.unityweb",
+"asmCodeUrl": "dodgefallhtml5.asm.code.unityweb",
+"asmMemoryUrl": "dodgefallhtml5.asm.memory.unityweb",
+"asmFrameworkUrl": "dodgefallhtml5.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
